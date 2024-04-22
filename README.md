@@ -1,0 +1,4 @@
+The system focuses on reducing human efforts by taking commands from the user in the form of voice. The Voice Assistant definition is derived from advances in artificial intelligence, specialist systems, speech recognition, and natural language processing. 
+The developed system, named ‘JK’ ,is built using python, one of the most popular programming languages in the field of Artificial Intelligence and Machine learning. 
+By including multiple libraries like pyttsx3, speech recognition, datetime ,Wikipedia etc, system is capable of doing a wide range of tasks by taking user’s voice as an input. The system is capable of taking pictures, opening different applications, opening files located at different locations, taking notes, changing wallpapers, having random chats 
+and performing many more functions
